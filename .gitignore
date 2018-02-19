@@ -1,0 +1,8 @@
+/.idea
+/node_modules
+/app/scripts/main.js
+/app/scripts/main.js.map
+/app/styles/css
+/app/styles/main.css
+/app/styles/main.css.map
+/dist
